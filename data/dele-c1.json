@@ -1,0 +1,228 @@
+{
+  "level": "C1",
+  "title": "DELE C1 备考助手",
+  "modes": {
+    "reading": {
+      "label": "阅读理解",
+      "items": [
+        {
+          "id": "c1-r1",
+          "type": "reading",
+          "title": "Texto: La atención fragmentada",
+          "passage": "Vivimos en una economía de la atención. Plataformas, notificaciones y contenidos infinitos compiten por cada segundo de nuestra mirada. El resultado no es solo distracción ocasional, sino una reconfiguración de hábitos cognitivos: cuesta sostener la lectura profunda, la conversación prolongada o el trabajo que exige concentración sostenida.\n\nAlgunos autores sostienen que no se trata meramente de falta de voluntad individual. El diseño de los entornos digitales premia la interrupción: cuanto más fragmentada esté la atención, más oportunidades hay de insertar estímulos. Por ello, recuperar el foco requeriría no solo autodisciplina, sino también cambios estructurales —en la escuela, en el trabajo y en la propia arquitectura de las aplicaciones.\n\nParadójicamente, la misma tecnología que dispersa también ofrece herramientas de bloqueo y medición. La cuestión, entonces, no es si podemos “desconectar”, sino bajo qué condiciones sociales resulta verosímil hacerlo.",
+          "prompt": "¿Cuál es la tesis más precisa del texto?",
+          "options": [
+            "La distracción digital se resuelve únicamente con más autodisciplina.",
+            "La fragmentación atencional es un problema individual sin causas estructurales.",
+            "La economía de la atención transforma hábitos cognitivos y exige respuestas que van más allá de la voluntad personal.",
+            "Las herramientas de bloqueo demuestran que el problema ya está solucionado."
+          ],
+          "answer": 2,
+          "explanation": "作者强调注意力碎片化不仅是个人意志问题，还涉及制度与设计层面。"
+        },
+        {
+          "id": "c1-r2",
+          "type": "reading",
+          "title": "Texto: Turismo y gentrificación",
+          "passage": "El auge del turismo urbano ha revitalizado centros históricos, pero también ha encarecido la vivienda y desplazado a vecinos de toda la vida. Lo que empezó como una oportunidad económica se percibe, en bastantes barrios, como una amenaza a la convivencia: comercios de proximidad sustituidos por tiendas de souvenirs, ruido nocturno y una sensación de vivir en un escaparate.\n\nLas administraciones oscilan entre atraer visitantes y proteger el tejido residencial. Medidas como limitar viviendas turísticas, diversificar flujos o incentivar el turismo cultural pueden mitigar efectos, aunque rara vez los eliminan. El dilema de fondo es político: ¿quién tiene derecho a la ciudad y con qué prioridades se gobierna el espacio común?",
+          "prompt": "Según el texto, el dilema central es…",
+          "options": [
+            "cómo eliminar por completo el turismo urbano.",
+            "cómo compatibilizar beneficios económicos con el derecho a habitar la ciudad.",
+            "cómo sustituir el comercio local por cadenas internacionales.",
+            "cómo aumentar únicamente el número de visitantes."
+          ],
+          "answer": 1,
+          "explanation": "核心困境是经济利益与居民城市权利/优先事项之间的政治权衡。"
+        },
+        {
+          "id": "c1-r3",
+          "type": "reading",
+          "title": "Texto: Precisión y estilo",
+          "passage": "En niveles avanzados, dominar un idioma no consiste solo en evitar errores gramaticales. Importa también la adecuación: elegir el registro oportuno, matizar afirmaciones y construir un discurso cohesionado. Un texto puede ser correcto y, sin embargo, resultar plano, reiterativo o inapropiado para la situación comunicativa.\n\nPor eso, el aprendizaje en C1 exige sensibilidad estilística. Leer buenos modelos, reescribir con criterio y pedir retroalimentación sobre matices —no solo sobre faltas— acelera ese salto. La precisión léxica y la variedad sintáctica no son adornos: son herramientas para pensar con mayor nitidez.",
+          "prompt": "¿Qué implica, según el autor, avanzar hacia C1?",
+          "options": [
+            "Memorizar más listas de verbos irregulares.",
+            "Priorizar únicamente la corrección gramatical.",
+            "Desarrollar adecuación, matiz y cohesión, además de corrección.",
+            "Evitar por completo la lectura de modelos."
+          ],
+          "answer": 2,
+          "explanation": "C1 不仅要正确，还要语域恰当、表达细腻、语篇连贯。"
+        }
+      ]
+    },
+    "grammar": {
+      "label": "语法与词汇",
+      "items": [
+        {
+          "id": "c1-g1",
+          "type": "mcq",
+          "title": "Conectores contrapuestos",
+          "prompt": "\"La propuesta es ambiciosa; ____, carece de financiación realista.\"",
+          "options": ["es más", "no obstante", "en primer lugar", "por consiguiente"],
+          "answer": 1,
+          "explanation": "no obstante 表示强烈转折，适合 C1 书面语。"
+        },
+        {
+          "id": "c1-g2",
+          "type": "mcq",
+          "title": "Subjuntivo en subordinadas",
+          "prompt": "\"No hay quien ____ ese informe en una tarde.\"",
+          "options": ["termina", "termine", "terminó", "terminaría"],
+          "answer": 1,
+          "explanation": "no hay quien + 虚拟式：termine。"
+        },
+        {
+          "id": "c1-g3",
+          "type": "mcq",
+          "title": "Matizadores",
+          "prompt": "¿Cuál expresa una afirmación más cautelosa?",
+          "options": [
+            "Es indudable que fracasará.",
+            "Podría decirse que los resultados son mixtos.",
+            "Está clarísimo que todo es un desastre.",
+            "Sin duda absoluta, es la peor opción."
+          ],
+          "answer": 1,
+          "explanation": "Podría decirse que… 语气更审慎，符合学术/议论语域。"
+        },
+        {
+          "id": "c1-g4",
+          "type": "mcq",
+          "title": "Léxico preciso",
+          "prompt": "Sustituye el término coloquial: \"El proyecto se vino abajo.\"",
+          "options": [
+            "El proyecto tuvo éxito rotundo.",
+            "El proyecto se pospuso indefinidamente.",
+            "El proyecto fracasó / se truncó.",
+            "El proyecto se hizo más barato."
+          ],
+          "answer": 2,
+          "explanation": "venirse abajo（项目垮掉）≈ fracasar / truncarse。"
+        },
+        {
+          "id": "c1-g5",
+          "type": "mcq",
+          "title": "Oraciones concesivas",
+          "prompt": "\"____ digan lo contrario, los datos no respaldan esa tesis.\"",
+          "options": ["Aunque", "Por mucho que", "Como si", "A fin de que"],
+          "answer": 1,
+          "explanation": "Por mucho que + 虚拟式 强调“无论他们怎么说……”。"
+        },
+        {
+          "id": "c1-g6",
+          "type": "mcq",
+          "title": "Nominalización",
+          "prompt": "Reescribe con estilo más formal: \"La gente consume mucho y eso contamina.\"",
+          "options": [
+            "El consumo excesivo genera contaminación.",
+            "La gente compra y punto.",
+            "Compran muchísimo, oye.",
+            "Hay un montón de contaminación."
+          ],
+          "answer": 0,
+          "explanation": "名词化（consumo / contaminación）提升书面正式度。"
+        },
+        {
+          "id": "c1-g7",
+          "type": "mcq",
+          "title": "Verbos de opinión + modo",
+          "prompt": "\"No creo que la medida ____ suficiente.\"",
+          "options": ["es", "sea", "será", "fue"],
+          "answer": 1,
+          "explanation": "否定意见动词后常用虚拟式：no creo que sea。"
+        },
+        {
+          "id": "c1-g8",
+          "type": "mcq",
+          "title": "Colocaciones",
+          "prompt": "Elige la colocación más natural:",
+          "options": [
+            "hacer una pregunta crucial",
+            "poner una pregunta crucial",
+            "montar una pregunta crucial",
+            "tirar una pregunta crucial"
+          ],
+          "answer": 0,
+          "explanation": "hacer una pregunta 是自然搭配。"
+        }
+      ]
+    },
+    "writing": {
+      "label": "写作提示",
+      "items": [
+        {
+          "id": "c1-w1",
+          "type": "writing",
+          "title": "Ensayo argumentativo",
+          "prompt": "Redacta un ensayo (220–250 palabras) sobre: \"¿Debe limitarse el uso de algoritmos de recomendación en redes sociales?\". Presenta una tesis clara, dos argumentos desarrollados y una objeción con réplica.",
+          "checklist": [
+            "开头提出清晰论点（tesis）",
+            "每个论据有解释 + 简例",
+            "包含反方观点并反驳",
+            "语域正式，连接词多样（no obstante, en este sentido, cabría preguntarse…）"
+          ],
+          "model": "结构：planteamiento → argumento 1 → argumento 2 → objeción/réplica → cierre matizado。"
+        },
+        {
+          "id": "c1-w2",
+          "type": "writing",
+          "title": "Informe profesional",
+          "prompt": "Eres responsable de bienestar en una empresa. Redacta un informe breve (200–220 palabras) sobre el aumento del estrés laboral. Incluye causas, impacto y tres medidas concretas con justificación.",
+          "checklist": [
+            "标题与目的明确",
+            "客观语气（se observa / conviene / se recomienda）",
+            "措施具体可执行",
+            "结尾提出下一步或评估指标"
+          ],
+          "model": "可用小标题：Contexto / Causas / Impacto / Propuestas / Seguimiento。"
+        },
+        {
+          "id": "c1-w3",
+          "type": "writing",
+          "title": "Carta al director",
+          "prompt": "Escribe una carta al director de un periódico (180–200 palabras) sobre la gentrificación en tu barrio. Expresa preocupación, aporta datos o ejemplos plausibles y propone al menos dos medidas.",
+          "checklist": [
+            "正式称呼与结尾",
+            "问题具体化（住房、噪声、商业）",
+            "建议可行",
+            "避免过度情绪化，保持说服力"
+          ],
+          "model": "说服策略：事实 → 影响 → 呼吁行动 → 结语。"
+        }
+      ]
+    },
+    "oral": {
+      "label": "口语提纲",
+      "items": [
+        {
+          "id": "c1-o1",
+          "type": "oral",
+          "title": "Monólogo: Privacidad digital",
+          "prompt": "Habla 4–5 minutos sobre hasta qué punto debemos ceder datos personales a cambio de servicios digitales. Matiza tu postura y anticipa una objeción.",
+          "checklist": [
+            "定义问题与利害关系",
+            "给出有条件的立场（no absoluto）",
+            "举例（salud, publicidad, seguridad）",
+            "反驳常见反对意见并收尾"
+          ],
+          "model": "用语：En términos generales… / No obstante… / Cabía objetar que… / En definitiva…"
+        },
+        {
+          "id": "c1-o2",
+          "type": "oral",
+          "title": "Debate: Universidad presencial vs. online",
+          "prompt": "Defiende una postura en un debate. Tu compañero defiende la contraria. Usa estrategias de negociación y concede puntos parciales sin abandonar tu tesis.",
+          "checklist": [
+            "开场清晰表明立场",
+            "承认对方合理之处（concesión）",
+            "反驳时针对论点而非人身",
+            "结尾重申并微调立场"
+          ],
+          "model": "策略：parcialmente de acuerdo → sin embargo → evidencia → síntesis。"
+        }
+      ]
+    }
+  }
+}

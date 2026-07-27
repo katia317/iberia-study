@@ -1,0 +1,218 @@
+{
+  "level": "B2",
+  "title": "DELE B2 备考助手",
+  "modes": {
+    "reading": {
+      "label": "阅读理解",
+      "items": [
+        {
+          "id": "b2-r1",
+          "type": "reading",
+          "title": "Texto: El teletrabajo",
+          "passage": "Durante la pandemia, muchas empresas descubrieron que parte de sus empleados podían trabajar desde casa sin perder productividad. Con el tiempo, el teletrabajo ha pasado de ser una medida temporal a convertirse en una opción habitual. Sin embargo, no todos los sectores pueden adoptarlo por igual: mientras que en oficios creativos o administrativos resulta viable, en la hostelería o la industria resulta casi imposible.\n\nLos defensores destacan el ahorro de tiempo en desplazamientos y una mayor flexibilidad horaria. Los críticos, en cambio, advierten del aislamiento social y de la dificultad para separar la vida laboral de la personal. Según varios estudios, el modelo híbrido —unos días en la oficina y otros en casa— parece ser el más equilibrado.",
+          "prompt": "Según el texto, ¿cuál de las siguientes afirmaciones es correcta?",
+          "options": [
+            "El teletrabajo es viable en todos los sectores por igual.",
+            "El modelo híbrido se presenta como una solución equilibrada.",
+            "Los críticos niegan cualquier ventaja del trabajo a distancia.",
+            "Las empresas abandonaron el teletrabajo tras la pandemia."
+          ],
+          "answer": 1,
+          "explanation": "文中明确提到混合模式似乎最均衡；并非所有行业都能远程工作。"
+        },
+        {
+          "id": "b2-r2",
+          "type": "reading",
+          "title": "Texto: Consumo responsable",
+          "passage": "Comprar menos y mejor se ha convertido en una consigna para muchos jóvenes. Frente a la moda rápida, surgen tiendas de segunda mano, marcas locales y campañas que invitan a reparar antes de tirar. Esta tendencia no solo responde a preocupaciones ecológicas, sino también económicas: la inflación ha obligado a muchas familias a reconsiderar sus hábitos.\n\nNo obstante, el cambio no es sencillo. Publicidad constante, ofertas agresivas y la presión de las redes sociales empujan al consumo impulsivo. Por eso, expertos en consumo recomiendan planificar las compras, comparar precios y preguntarse si realmente se necesita un producto antes de adquirirlo.",
+          "prompt": "¿Cuál es la idea principal del texto?",
+          "options": [
+            "La moda rápida es la única causa del consumo impulsivo.",
+            "El consumo responsable combina motivos ecológicos y económicos, aunque enfrenta obstáculos.",
+            "Las redes sociales han eliminado por completo el consumo impulsivo.",
+            "Reparar productos es más caro que comprar nuevos."
+          ],
+          "answer": 1,
+          "explanation": "主旨是负责任消费既有环保也有经济原因，但仍面临广告与社交媒体等障碍。"
+        },
+        {
+          "id": "b2-r3",
+          "type": "reading",
+          "title": "Texto: Aprendizaje de idiomas",
+          "passage": "Aprender un idioma en la edad adulta exige constancia más que talento. Quienes progresan más rápido suelen combinar varias estrategias: clases formales, exposición diaria a contenidos auténticos y práctica productiva —hablar y escribir— aunque cometan errores. El miedo a equivocarse es, de hecho, uno de los mayores frenos.\n\nAdemás, conviene fijar objetivos concretos: preparar un examen, viajar o trabajar en otro país. Un propósito claro ayuda a mantener la motivación cuando el avance parece lento. Por último, medir el progreso con pruebas periódicas permite ajustar el método a tiempo.",
+          "prompt": "Según el autor, ¿qué frena especialmente el aprendizaje?",
+          "options": [
+            "La falta de talento natural.",
+            "El exceso de clases formales.",
+            "El miedo a cometer errores.",
+            "La ausencia de exámenes oficiales."
+          ],
+          "answer": 2,
+          "explanation": "文中写到害怕犯错是最大阻碍之一。"
+        }
+      ]
+    },
+    "grammar": {
+      "label": "语法与词汇",
+      "items": [
+        {
+          "id": "b2-g1",
+          "type": "mcq",
+          "title": "Conectores",
+          "prompt": "Completa: \"Quería salir; _____, empezó a llover.\"",
+          "options": ["además", "sin embargo", "por lo tanto", "es decir"],
+          "answer": 1,
+          "explanation": "表示转折用 sin embargo（然而）。"
+        },
+        {
+          "id": "b2-g2",
+          "type": "mcq",
+          "title": "Subjuntivo",
+          "prompt": "Elige la opción correcta: \"Te recomiendo que ____ más despacio.\"",
+          "options": ["hablas", "hables", "hablarás", "habías hablado"],
+          "answer": 1,
+          "explanation": "recomendar que + 虚拟式现在时：hables。"
+        },
+        {
+          "id": "b2-g3",
+          "type": "mcq",
+          "title": "Condicional",
+          "prompt": "\"Si hubiera tenido más tiempo, ____ a la exposición.\"",
+          "options": ["voy", "iría", "habría ido", "fui"],
+          "answer": 2,
+          "explanation": "与过去相反的条件句：si + 过去完成虚拟式，主句用条件完成时 habría ido。"
+        },
+        {
+          "id": "b2-g4",
+          "type": "mcq",
+          "title": "Perífrasis",
+          "prompt": "\"Lleva dos horas ____ el informe.\"",
+          "options": ["escribir", "escribiendo", "escrito", "a escribir"],
+          "answer": 1,
+          "explanation": "llevar + 时间 + gerundio 表示持续动作。"
+        },
+        {
+          "id": "b2-g5",
+          "type": "mcq",
+          "title": "Vocabulario",
+          "prompt": "¿Qué significa \"poner de relieve\"?",
+          "options": [
+            "Apagar la luz",
+            "Destacar o subrayar algo",
+            "Guardar un objeto",
+            "Posponer una reunión"
+          ],
+          "answer": 1,
+          "explanation": "poner de relieve = 突出、强调。"
+        },
+        {
+          "id": "b2-g6",
+          "type": "mcq",
+          "title": "Registro",
+          "prompt": "En un correo formal, ¿qué cierre es más adecuado?",
+          "options": [
+            "Un abrazo,",
+            "Atentamente,",
+            "Besos,",
+            "Ya hablamos,"
+          ],
+          "answer": 1,
+          "explanation": "正式书信常用 Atentamente。"
+        },
+        {
+          "id": "b2-g7",
+          "type": "mcq",
+          "title": "Pronombres",
+          "prompt": "\"¿Me pasas el libro?\" — \"Claro, ____ paso ahora mismo.\"",
+          "options": ["lo te", "te lo", "se lo", "le te"],
+          "answer": 1,
+          "explanation": "间接宾语代词在前：te lo paso。"
+        },
+        {
+          "id": "b2-g8",
+          "type": "mcq",
+          "title": "Conectores causales",
+          "prompt": "\"Cancelaron el vuelo ____ la niebla.\"",
+          "options": ["para", "debido a", "aunque", "mientras"],
+          "answer": 1,
+          "explanation": "debido a + 名词表示原因。"
+        }
+      ]
+    },
+    "writing": {
+      "label": "写作提示",
+      "items": [
+        {
+          "id": "b2-w1",
+          "type": "writing",
+          "title": "Carta formal",
+          "prompt": "Escribe una carta formal (150–180 palabras) a la dirección de un gimnasio. Te has dado de alta hace un mes, pero las clases anunciadas no se imparten con regularidad. Explica el problema, pide una solución y menciona qué harás si no se resuelve.",
+          "checklist": [
+            "使用正式称呼与结尾（Estimado/a… / Atentamente）",
+            "清楚说明问题与期望的解决方案",
+            "语气礼貌但坚定",
+            "段落分明：开场—问题—请求—结尾"
+          ],
+          "model": "结构示例：称呼 → 自我介绍与事由 → 具体问题（时间、频率）→ 请求（退款/调课/补偿）→ 礼貌结尾。"
+        },
+        {
+          "id": "b2-w2",
+          "type": "writing",
+          "title": "Artículo de opinión",
+          "prompt": "Redacta un artículo breve (150–180 palabras) para el blog de tu escuela sobre esta afirmación: \"Las redes sociales acercan a las personas\". Da tu opinión con al menos dos argumentos y una conclusión.",
+          "checklist": [
+            "开篇点明立场",
+            "至少两个论据 + 简短例子",
+            "使用连接词：además, sin embargo, por lo tanto…",
+            "结尾总结并回扣主题"
+          ],
+          "model": "可写利弊兼顾：连接便利 vs 浅层互动，最后提出负责任使用。"
+        },
+        {
+          "id": "b2-w3",
+          "type": "writing",
+          "title": "Correo a un amigo",
+          "prompt": "Un amigo extranjero quiere pasar un mes en tu ciudad para mejorar su español. Escríbele un correo (130–150 palabras) recomendándole actividades, barrios para alojarse y consejos prácticos.",
+          "checklist": [
+            "语气半正式/友好",
+            "给出具体建议（地点、活动）",
+            "包含实用信息（交通、预算、安全）",
+            "邀请进一步联系"
+          ],
+          "model": "分点建议更清晰：住哪里、学什么、玩什么、注意什么。"
+        }
+      ]
+    },
+    "oral": {
+      "label": "口语提纲",
+      "items": [
+        {
+          "id": "b2-o1",
+          "type": "oral",
+          "title": "Monólogo: Vivir en la ciudad o en el pueblo",
+          "prompt": "Habla durante 3–4 minutos. Compara la vida urbana y rural. Incluye ventajas, inconvenientes y tu preferencia personal.",
+          "checklist": [
+            "开场：点题 + 立场",
+            "城市：至少两点利弊",
+            "乡村：至少两点利弊",
+            "结尾：个人选择与理由"
+          ],
+          "model": "可用结构：introducción → por un lado → por otro lado → en mi caso → conclusión。"
+        },
+        {
+          "id": "b2-o2",
+          "type": "oral",
+          "title": "Conversación: Organizar un evento",
+          "prompt": "Con un compañero, organizad una jornada cultural en la escuela. Decidid tema, presupuesto, publicidad y reparto de tareas. Negociad si hay desacuerdos.",
+          "checklist": [
+            "提出并回应建议（¿Qué te parece…?）",
+            "表达同意/部分同意/反对",
+            "分配任务并确认时间",
+            "总结最终决定"
+          ],
+          "model": "互动用语：Yo propongo… / Estoy de acuerdo, pero… / ¿Y si…? / Entonces queda…。"
+        }
+      ]
+    }
+  }
+}
